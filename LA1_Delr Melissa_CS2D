@@ -3,3 +3,43 @@ Activity2.js // Numbers Activity
 Activity3.js // Boolean Activity 
 Activity4.js // Comparison or relational Operator
 Activity5.js // String
+
+let (name) = "Melissa Del Rosario";
+let (whatDoYouWannaBecomeInYourLife) = "programmer";
+let (gender) = "female";
+let (facebookAcct) = "Melissa Del Rosario 
+console.log = "Melissa Del Rosario 
+
+let (firstFavNum) = 03;
+let (secondFavNum) = 08;
+Add (firstFavNum&secondFavNum) = 03+08;
+Subract (firstFavNum&secondFavNum) = 03-08;
+Multiply (firstFavNum&secondFavNum) = 03*08;
+Divided (firstFavNum&secondFavNum) = 03÷08;
+Check (firstFavNum Mod secondFavNum) = 03+08;
+Check (firstFavNum&secondFavNum) = 03⁸
+
+let (isJsProgrammingLanguage) = "true";
+let (isJsHard) = "false";
+let (favNumb) = (03);
+03 + undefined 
+console. log (03+undefined) = undefined 
+
+let (firstFavNumb) = 03;
+let (secondFavNumb) = 08;
+(firtFavNumb>secondFavNumb) = 03>08;
+(firtFavNumb<secondFavNumb) = 03<08;
+(firtFavNumb>=secondFavNumb) = 03>=08;
+(firtFavNumb<=secondFavNumb) = 03<=08;
+(firtFavNumb=secondFavNumb) = 03=08;
+(firtFavNumb==secondFavNumb) = 03=08;
+(firtFavNumb\=secondFavNumb) = 03\=08;
+(firtFavNumb\=secondFavNumb) = 03\=08;
+
+let (favActorFirstName) = "Marianne";
+let (favActorLastName) = "Rivera";
+let (fullName) = (favActorFirstName,favActorLastName)
+let (uppercase) = MARIANNE
+let (message) = "My favorite actor is MARIANNE, is pretty";
+let (message variable) = "her best show is Silicon Valley";
+console.log = false
