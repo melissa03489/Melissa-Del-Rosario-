@@ -24,7 +24,6 @@ if (score >= 90) {
 // switch statement activity 
 // Prompt the user to enter a day of the week
 const day = prompt("Enter a day of the week:Monday");
-
 // Use a switch statement to map each day to a specific task to ensure the input is case-insensitive.
 switch (day.toLowerCase()) {
   case "monday":
@@ -50,4 +49,11 @@ switch (day.toLowerCase()) {
     break;
   default:
     console.log("Finish assignments.");
+}
+
+// while loop activity 
+for (let a = 1; a <= 10; a++) {
+  if (a % 2 === 0) {
+    console.log(a);
+  }
 }
