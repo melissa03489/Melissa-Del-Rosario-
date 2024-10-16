@@ -6,4 +6,4 @@ let mixedArr = ["hello",["john"],123,true]
 console.log [["hello",["john"],123,true]]
 
 // activity 2
-let arr1 = [("
+let arr1 = [("Cecile","lone")],
