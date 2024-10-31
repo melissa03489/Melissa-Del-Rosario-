@@ -1,0 +1,63 @@
+//coding problem 1
+// userProfile.js
+let full name= (melissa del rosario);
+let age = 19;
+let favorite number = 03;
+let favorite color= "black";
+console.log (fullname,age, favorite number, favorite color);
+
+
+//coding problem 2
+//classSubject.js
+let Subject Title = "DSA";
+let Class Schedule = "8-9am,monday-friday";
+let Classroom = "Comlab B"
+let Class Instructor = "Mr. Cliff Owen Pascua";
+let Student Name = "Melissa Del Rosario";
+console.log = "{Melissa Del Rosario} is
+currently enrolled in {DSA} with a class 
+schedule of {8-9am,monday-friday} at room
+{comlab b}.The instructor for the subject
+is {Mr.Cliff Owen Pascua}
+
+
+//coding problem 3
+print("You are a Toddler");
+else:
+if age = 12;
+print("You are a Child");
+else:
+if age = 19;
+print("You are a Teenager");
+else:
+if age = 35;
+print("You are a Young Adult");
+else:
+if age = 60;
+print("You are Middle-Aged");
+else:
+print("You are a Senior");
+
+//coding problem 4
+let theFavNumber = 7;  
+let userGuess = null;
+(userGuess !== theFavNumber) {
+userGuess = Number(prompt("Guess my favorite number"));
+ if (userGuess > theFavNumber) {
+ console.log("Too high! Try again");
+ } else if (userGuess < theFavNumber) {
+ console.log("Too low! Try again");
+ } else if (userGuess === theFavNumber) {
+ console.log("Correct! You've guessed my favorite number");
+ } else {
+ console.log("Invalid input.Please enter a number");
+ }
+
+coding problem 5
+
+coding problem 6
+// userProfile
+let ("fullname","age", "favorite number", favorite colors");
+console.log (fullname","age", "favorite number", favorite colors");
+
+coding problem 7-8
