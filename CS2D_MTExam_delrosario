@@ -53,11 +53,19 @@ userGuess = Number(prompt("Guess my favorite number"));
  console.log("Invalid input.Please enter a number");
  }
 
-coding problem 5
+//coding problem 5
+let favoriteColors = ["black", "gray", "blue"];
+addColor() = ("white") {
+let color = prompt("black");
+favoriteColors.push(color);
+console.log("Updated list of favorite colors", favoriteColors);
+}
+(let i = 0; i < 3; i++) {
+    addColor(); }
 
-coding problem 6
+//coding problem 6
 // userProfile
 let ("fullname","age", "favorite number", favorite colors");
 console.log (fullname","age", "favorite number", favorite colors");
 
-coding problem 7-8
+//coding problem 7-8
