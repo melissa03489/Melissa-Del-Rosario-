@@ -69,3 +69,57 @@ let ("fullname","age", "favorite number", favorite colors");
 console.log (fullname","age", "favorite number", favorite colors");
 
 //coding problem 7-8
+print("(a) DSA");
+  print("(b) PL");
+  print("(c) Networks");
+  subject_choice = input("Enter your
+  choice (a/b/c)");
+
+   if subject_choice == 'a';
+   subject = DSA
+   subject_name = "DSA";
+   elif subject_choice == 'b';
+   subject = PL ;
+   subject_name = "PL";
+    elif subject_choice == 'c';
+    subject = Networks;
+    subject_name = "Networks";
+    else:
+   print("Invalid subject choice. Please
+   try again");
+       
+        continue
+
+     print("Selected Subject":
+     {subject_name}");
+     print("Currently Enrolled Student".subject);
+        print("Choose an operation");
+        print("(a) Enroll a student");
+        print("(b) Unenroll a student");
+        print("(c) Select another subject");
+        print("(d) Exit");
+        operation_choice = input("Enter your choice (a/b/c/d);
+
+       student_name = input("Enter the name of the student to enroll");
+            subject.append(student_name);
+            print(f"{student_name} has been enrolled in {subject_name}");
+
+if subject :
+student_name = input("Enter the name of the student to unenroll");
+               
+   if student_name in subject:
+   print(f"{student_name} has been
+   unenrolled from {subject_name}"):
+   else
+   prin(f"{student_name} is not enrolled in {subject_name}");
+   else:
+   print(f"No students are currently enrolled in {subject_name}");
+
+  Exit   print("Final Enrollment");
+  print("DSA:", DSA);
+  print("PL:", PL); 
+  print("Networks:", Networks);
+  exit() = Exit the entire program
+
+ else:
+ print("Invalid operation choice. Please try again");
